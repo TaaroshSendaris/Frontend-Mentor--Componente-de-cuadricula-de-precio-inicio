@@ -1,4 +1,4 @@
 import { defineConfig } from "vite"
 export default defineConfig({
-    base: '/Single-price-grid-component-master/'
+    base: '/single-price-grid-component-master/'
 })
